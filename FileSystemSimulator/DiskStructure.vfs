@@ -1,0 +1,12 @@
+11000000000000000001111000000000000000000000000
+*
+root/folder/file.txt 0 2 , 
+root/folder/file2.txt 12 4 , 
+*
+root
+root/folder
+root/folder/file.txt
+root/folder/file2.txt
+root/fold
+root/admin
+root/admin/roo

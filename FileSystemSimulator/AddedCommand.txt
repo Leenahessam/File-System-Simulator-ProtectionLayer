@@ -1,0 +1,5 @@
+TellUser
+CreateUser ahmed pass123 (only for admin)
+Grant ahmed root/folder1 10 (only for admin)
+Login ahmed pass123
+DeleteUser ahmed  (only for admin)
